@@ -1,2 +1,2 @@
 # djam
-for user testing
+The collaborative music control system.

@@ -16,7 +16,6 @@
     - near me (geolocation)
     - hosted by my friends
     - popular now
-    -
   - display search bar (session name, host name, id)
 
  ********** GET '/sessions/new' **********
